@@ -1,0 +1,21 @@
+h2{
+    color: rgb(252, 248, 5);
+}
+h3{
+    color: aqua;
+}
+
+
+#wrapper{
+    border: 5px solid rgb(244, 88, 88);
+    padding: 2rem;
+    border-radius: 5pc;
+    background: linear-gradient(to right,green,purple);
+}
+input{
+    border: 2px solid red;
+    border-radius: 5%;
+}
+simm{
+    background: linear-gradient(to left,purple,yellow);
+}
