@@ -37,7 +37,7 @@ p{
 .imagebox{
     width: 100px;
     height: 300px;
-    background: url(/creatingWeb/Veggie.webp);
+    background: url(Veggie.webp);
     background-size: cover;
     background-position: center;
     border-radius: 50px;
@@ -45,25 +45,25 @@ p{
 }
 .imagebox:nth-child(2)
 {
-    background: url(/creatingWeb/peperoni.webp);
+    background: url(peperoni.webp);
     background-size: cover;
     background-position: center;
 }
 .imagebox:nth-child(3)
 {
-    background: url(/creatingWeb/BBQ.webp);
+    background: url(BBQ.webp);
     background-size: cover;
     background-position: center;
 }
 .imagebox:nth-child(4)
 {
-    background: url(/creatingWeb/Buffalo.webp);
+    background: url(Buffalo.webp);
     background-size: cover;
     background-position: center;
 }
 .imagebox:nth-child(5)
 {
-    background: url(/creatingWeb/cheese.webp);
+    background: url(cheese.webp);
     background-size: cover;
     background-position: center;
 }
